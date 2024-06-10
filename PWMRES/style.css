@@ -1,0 +1,46 @@
+/***** welcome.php *****/
+/* Gaya untuk body */
+.body-container {
+    font-family: monospace;
+    text-align: center;
+    /* Mengatur teks di tengah */
+}
+
+/* Gaya untuk judul h2 */
+.page-title {
+    font-size: 32px;
+    /* Mengatur ukuran font judul */
+    margin-bottom: 20px;
+    /* Jarak bawah dari judul */
+}
+
+/* Gaya untuk paragraf */
+.page-description {
+    font-size: 70px;
+    /* Mengatur ukuran font paragraf */
+    line-height: 1.6;
+    /* Mengatur jarak antar baris */
+}
+
+/* Gaya untuk tombol logout */
+.logout-button {
+    display: inline-block;
+    padding: 8px 16px;
+    font-size: 14px;
+    background-color: #ff4747;
+    /* Warna latar belakang */
+    color: white;
+    /* Warna teks */
+    text-decoration: none;
+    /* Hapus garis bawah */
+    border-radius: 4px;
+    /* Sudut melengkung */
+    margin-top: 20px;
+    /* Jarak atas dari tombol */
+}
+
+.logout-button:hover {
+    background-color: #8d1414eb;
+    /* Warna latar belakang saat hover */
+}
+/***** End welcome.php *****/
